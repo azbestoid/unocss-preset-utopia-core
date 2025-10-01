@@ -13,7 +13,7 @@ A UnoCSS preset that integrates [Utopia's fluid responsive design system](https:
 ## Installation
 
 ```bash
-npm install utopia-core azbestoid/unocss-preset-utopia-core
+npm install utopia-core github:azbestoid/unocss-preset-utopia-core
 
 ```
 

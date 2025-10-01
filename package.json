@@ -1,0 +1,28 @@
+{
+  "name": "@azbestoid/unocss-preset-utopia-core",
+  "version": "1.0.0",
+  "description": "UnoCSS preset for fluid typography and spacing using Utopia.fyi",
+  "author": "azbestoid",
+  "license": "MIT",
+  "type": "module",
+  "main": "preset/src/index.ts",
+  "types": "preset/src/index.ts",
+  "files": [
+    "preset/src"
+  ],
+  "keywords": [
+    "unocss",
+    "unocss-preset",
+    "utopia-css",
+    "fluid-typography"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azbestoid/unocss-preset-utopia-core.git"
+  },
+  "devDependencies": {
+	"@unocss/core": "^66.4.2",
+    "utopia-core": "^1.6.0",
+    "typescript": "^5.6.3"
+  }
+}

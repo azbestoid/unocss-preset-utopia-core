@@ -1,7 +1,7 @@
 
 # UnoCSS Preset Utopia Core
 
-A UnoCSS preset that integrates [Utopia's fluid responsive design system](https://utopia.fyi) using the official [utopia-core](https://github.com/Utopia-fyi/utopia-core) JavaScript library. Inspired by [unocss-preset-utopia](https://github.com/adameier/unocss-preset-utopia).
+A UnoCSS preset that integrates [Utopia's fluid responsive design system](https://utopia.fyi) using the official [utopia-core](https://github.com/trys/utopia-core) JavaScript library. Inspired by [unocss-preset-utopia](https://github.com/adameier/unocss-preset-utopia).
 
 ## Features
 

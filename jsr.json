@@ -1,0 +1,6 @@
+{
+    "name": "@azbestoid/unocss-preset-utopia-core",
+    "version": "1.0.0",
+    "license": "MIT",
+    "exports": "./preset/src/index.ts"
+}
